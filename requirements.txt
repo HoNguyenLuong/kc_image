@@ -1,0 +1,9 @@
+torch
+transformers
+Pillow
+requests
+faiss-gpu  # Use faiss-gpu if you're running on GPU, otherwise faiss-cpu
+fastapi
+pydantic
+uvicorn
+cairosvg
